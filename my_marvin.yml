@@ -6,13 +6,13 @@ jenkins:
       users:
         - id: chocolateen
           name: "Hugo"
-          password: ${USER_CHOCOLATEEN_PASSWORD}
+          password: hugo
         - id: vaugie_g
           name: "Garance"
-          password: ${USER_VAUGIE_G_PASSWORD}
+          password: garance
         - id: i_dont_know
           name: "Jeremy"
-          password: ${USER_I_DONT_KNOW_PASSWORD}
+          password: jeremy
         - id: nasso
           name: "Nassim"
-          password: ${USER_NASSO_PASSWORD}
+          password: nassim
